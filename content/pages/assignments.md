@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the three short writing assignments
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 073d3f79-1da9-aa16-a7fc-4670cb31419e
 ---

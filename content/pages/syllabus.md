@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the required casebook, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 75567420-ee75-b752-fe1b-91659b29e10b
 ---
@@ -32,7 +36,7 @@ Grading
 
 Discussions will focus on cases most of the time, not for the law as such, but for the policy justifications. Students are encouraged to link up the principles and policies to their own graduate research during class participation.
 
-Grading for this course will be based mainly on one final analytical paper not exceeding 20 pages (double-spaced) and three 3-page papers (double spaced) on topics selected by the students. The topics for short papers may be of a general nature or be on specific cases, but in either case the papers must show a mastery of the themes covered and draw upon the materials in this course. The due dates are noted in the [calendar]({{< baseurl >}}/pages/calendar) section and late submissions will not be accepted under any circumstances. The final paper topic must be chosen well in advance by the students in consultation with the instructor, and the paper is due on the last day of the exam period without fail. The 3-page papers may be submitted by email or hardcopy, but the final paper is due only by hardcopy. Failure to submit more than one 3-page paper will result in a fail grade. Vigorous class participation is expected and encouraged.
+Grading for this course will be based mainly on one final analytical paper not exceeding 20 pages (double-spaced) and three 3-page papers (double spaced) on topics selected by the students. The topics for short papers may be of a general nature or be on specific cases, but in either case the papers must show a mastery of the themes covered and draw upon the materials in this course. The due dates are noted in the {{% resource_link 8b373b9e-ee8d-69ec-18e0-395b59942ec7 "calendar" %}} section and late submissions will not be accepted under any circumstances. The final paper topic must be chosen well in advance by the students in consultation with the instructor, and the paper is due on the last day of the exam period without fail. The 3-page papers may be submitted by email or hardcopy, but the final paper is due only by hardcopy. Failure to submit more than one 3-page paper will result in a fail grade. Vigorous class participation is expected and encouraged.
 
 {{< tableopen >}}
 {{< theadopen >}}

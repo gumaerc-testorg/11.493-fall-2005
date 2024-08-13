@@ -193,13 +193,13 @@ Cappel, Andrew J. "A Walk along Willow: Patterns of Land Use Coordination in Pre
 Land-use Planning, Limits to Zoning and Environmental Regulation
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262192136) Singer, pp. 1055-1081.
+{{% resource_link "c96f109d-23f5-49f9-8fb4-e47bba2ac7c9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, pp. 1055-1081.
 
 *Palazzolo v. Rhode Island*, 533 U.S. 606 (2001).
 
 *Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency*, 535 U.S. 302 (2002).
 
-Schelling, Thomas C., ed. "Prices as Regulatory Instruments." In [*Incentives for Environmental Protection*](https://mitpress.mit.edu/0262192136). Cambridge, MA: MIT Press, 1983. ISBN: 0262192136.
+Schelling, Thomas C., ed. "Prices as Regulatory Instruments." In {{% resource_link "c96f109d-23f5-49f9-8fb4-e47bba2ac7c9" "*Incentives for Environmental Protection*" %}}. Cambridge, MA: MIT Press, 1983. ISBN: 0262192136.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -293,17 +293,17 @@ Constitution of South Africa (relevant provisions).
 
 Jaichand, Vinodh. *The Restitution of Land Rights.* Johannesburg, South Africa: Lex Patria, 1997, pp. 1-76. ISBN: 0628036523.
 
-*Alexor Ltd. And the Government of the Republic of South Africa v. Richtersveld community*, CCT 19/03, 2003. (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*Alexor Ltd. And the Government of the Republic of South Africa v. Richtersveld community*, CCT 19/03, 2003. (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
 *Recommended*
 
-*City Council of Springs v. Occupants of the Farm Kwa-Thema*, LCC R10/98 (September 2, 1999) (same as above). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*City Council of Springs v. Occupants of the Farm Kwa-Thema*, LCC R10/98 (September 2, 1999) (same as above). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*The Minister of Land Affairs of the Republic of South Africa and another v. Omar Slamdien and others*, LCC 107/98 (February 10, 1999). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*The Minister of Land Affairs of the Republic of South Africa and another v. Omar Slamdien and others*, LCC 107/98 (February 10, 1999). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*Former Highlands Residents: Ash and others v. Department of Land Affairs*, LCC116/98 (March 10, 2000). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link, especially paragraphs 21-38).
+*Former Highlands Residents: Ash and others v. Department of Land Affairs*, LCC116/98 (March 10, 2000). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link, especially paragraphs 21-38).
 
-Roux, Theunis. "Pro-poor Court, Anti-poor outcomes: Explaining the performance of the South African Land Claims Court." *South African Journal of Human Rights* 20, no. 511 (2004). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+Roux, Theunis. "Pro-poor Court, Anti-poor outcomes: Explaining the performance of the South African Land Claims Court." *South African Journal of Human Rights* 20, no. 511 (2004). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -313,21 +313,21 @@ Urban Dilemmas: Land Invasions, Housing Rights and Evictions
 
 1998 Prevention of Illegal Eviction from and Unlawful occupation of land Act No. 19.
 
-*Government of R.S.A. v. Grootboom*, CCT 11/00 (4th October 2000, Constitutional Court of South Africa). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*Government of R.S.A. v. Grootboom*, CCT 11/00 (4th October 2000, Constitutional Court of South Africa). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*Port Elizabeth Municipality v. Various Occupiers*, CCT 53/03, 2004. (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*Port Elizabeth Municipality v. Various Occupiers*, CCT 53/03, 2004. (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*President of the Republic of South Africa and another v. Modderklip Boerdery and Another*, CCT 20/04, 2005. (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*President of the Republic of South Africa and another v. Modderklip Boerdery and Another*, CCT 20/04, 2005. (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
 *Recommended*
 
 Huchzermeyer, Marie. "Land invasions, evictions and the law in South Africa." unpublished draft, 2002.
 
-Wesson, Murray. "Grootboom and Beyond: Assessing the Socio-Economic Jurisprudence of the South African Constitutional Court." *South African Journal of Human Rights* 20, no. 284 (2004). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+Wesson, Murray. "Grootboom and Beyond: Assessing the Socio-Economic Jurisprudence of the South African Constitutional Court." *South African Journal of Human Rights* 20, no. 284 (2004). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*Minister of Public Works and others v. Kyalami Ridge Environmental Association and others*, Constitutional Court - CCT55/00, May 29, 2001. (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*Minister of Public Works and others v. Kyalami Ridge Environmental Association and others*, Constitutional Court - CCT55/00, May 29, 2001. (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
-*Jeanette Harksen v. Michael Lane NO and Others*, CCT 9/97 (October 7, 1997, Constitutional Court of South Africa). (Go to [Wits Law School](http://www.law.wits.ac.za/) and then click on the relevant link).
+*Jeanette Harksen v. Michael Lane NO and Others*, CCT 9/97 (October 7, 1997, Constitutional Court of South Africa). (Go to {{% resource_link "201abb1a-7a24-4634-a650-6deec73e6795" "Wits Law School" %}} and then click on the relevant link).
 
 Berrisford, Stephen. "Law and Urban Change in the New South Africa." In *Illegal Cities: Law and Urban Change in Developing Countries*. Edited by Edesio Fernandes and Ann Varley. New York, NY: Zed Books, 1998, pp. 213-230. ISBN: 1856495507.
 
@@ -367,7 +367,7 @@ Development Displacement, Contests Over Land and Housing Rights
 
 *Olga Tellis and others v. Bombay Municipal corporation*, AIR 1986 SC 180.
 
-[Narmada Bachao Andolan vs. Union of India and others, (2000) 10 SCC 664](https://indiankanoon.org/doc/1938608/?__cf_chl_jschl_tk__=58b7b14155b24f31854e91cbbfe03d4e50f13659-1623443607-0-AWDgsgs-8GcEtupbS7UuOIQS6Ctxkz8du7WPH9i05cfmOEp-cb6XquApTPgMYc1pYCqpAkb0BH0xRX9JXZcVvuvVHN7wa_rnKDxzGRMAg_AZvKp-wNDpT-vsa7A7UypgzONTdzxJjVnh2mtKi6SBfm5W8qhgJoMALbznzlvrXOjbLl16RbZ8dcZshnEupzQy6RaESZ17PniuSpkRgMHqD-usMqUDIPfivriIFVz_5WCmR9cVmFxQN_Vzc_rE12u72iwB-jLIXlip5GK2w3H0yZKvxZutbGA6YiXmVqw1bha0etUuMlvYMqicXdWcvHgwmYvX64pEC9pM0LXAqkYqQBPs2D7g2lcAu67LzKClwhwlV530Qmfz002PLMEoWpan_P1rI8cvQMGLVvrv1C7qs6Zwjr_Pwc8AfArSQgw3pjzWnbQI_6vpwafrEVkVRJWTNYmQc5r1G9zjPkKjX4lxwLKyduQWlLBdGGFjYmwYRKtj)
+{{% resource_link "bd5a7bbf-a612-4a40-bd66-cd84f657f999" "Narmada Bachao Andolan vs. Union of India and others, (2000) 10 SCC 664" %}}
 
 Rajagopal, Balakrishnan. "Limits of law in counter-hegemonic globalization: The Indian Supreme Court and the Narmada Valley struggle." *Law and Globalization from Below: Towards a Cosmopolitan Legality*. Edited by Boaventura de Souza Santos and César A. Rodríguez-Garavito. New York, NY: Cambridge University Press, 2005. ISBN: 0521607353.
 
@@ -379,7 +379,7 @@ Cernea, Michael. "Public policy responses to development-induced population disp
 International Development Policy Prescriptions of Property
 {{< tdclose >}}{{< tdopen >}}
 
-World Bank. "Legal Institutions and the Rule of Law." In *World Development Report: From Plan to Market* (1996). ([PDF - 19.1 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/1996/06/27/000009265_3961214181445/Rendered/PDF/multi0page.pdf))
+World Bank. "Legal Institutions and the Rule of Law." In *World Development Report: From Plan to Market* (1996). ({{% resource_link "779dd513-2c60-4d01-b94d-b281b2fe3925" "PDF - 19.1 MB" %}})
 
 World Bank. "Introduction." In *World Development Report: Building Institutions for Markets New York*, NY: Published for the World Bank, Oxford University Press, 2001. ISBN: 0195216067.
 
